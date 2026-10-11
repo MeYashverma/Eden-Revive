@@ -1,0 +1,1 @@
+{"name":"eden-revive","version":"0.1.0","private":true,"description":"EDEN : Revive - single-file browser living-world sandbox","scripts":{"test":"node tests/headless.js"},"devDependencies":{"three":"0.128.0"}}
